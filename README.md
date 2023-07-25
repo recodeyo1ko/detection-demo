@@ -1,6 +1,13 @@
-# HOW TO USE
+# YOLO v8 を用いた物体検出
 
-## Python 環境構築
+## 用途
+
+物体検出やAIについて説明をするとき
+
+
+## HOW TO USE
+
+### Python 環境構築
 
 仮想環境の構築
 
@@ -35,13 +42,4 @@ python3 detect.py source=0
 
 ```bash
 deactivate
-```
-
-## memo
-
-```bash
-ライブラリの出力
-pip3 list
-ライブラリの保存
-pip3  freeze > requirements.txt
 ```
