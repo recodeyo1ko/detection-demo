@@ -1,4 +1,6 @@
 # YOLO v8 を用いた物体検出
+![Static Badge](https://img.shields.io/badge/python-code?logo=python&label=Code&color=blue)
+![Static Badge](https://img.shields.io/badge/v8-yolo?label=yolo)
 
 ## 用途
 
